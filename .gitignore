@@ -13,3 +13,9 @@ Thumbs.db
 uploads/*
 # ...excepte el fitxer .gitkeep (per mantenir la carpeta)
 !uploads/.gitkeep
+
+# Ignorar comprimidos y documentos basura
+*.zip
+*.rar
+*.pdf
+*.docx
